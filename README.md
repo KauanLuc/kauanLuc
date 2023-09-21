@@ -7,6 +7,7 @@ Hello, my name is Kauan Lucena, this my profile where I share my personal and co
 - ✉ You Can Contact Me on:
   -  kauan.lucena@sptech.school <br>
   - [Instagram](https://www.instagram.com/kaefieli/)
+  - [LinkedIn](https://www.linkedin.com/in/kauan-lucena-714237292)
 
 ### ToolsWork and Abilities:
 ##
