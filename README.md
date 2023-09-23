@@ -1,5 +1,5 @@
 # 👋 Welcome to My GitHub Profile
-Hello, my name is Kauan Lucena, this my profile where I share my personal and college projects and work. 
+Hello, my name is Kauan Lucena. This is my profile where I share my personal, college and work projects.
 ## A Little About Myself
 - 👨‍💻 Student of Analysis and Systems Development at [Sptech](https://www.sptech.school/)
 - 🔰 A Curious Brazilian
@@ -9,7 +9,7 @@ Hello, my name is Kauan Lucena, this my profile where I share my personal and co
   - [Instagram](https://www.instagram.com/kaefieli/)
   - [LinkedIn](https://www.linkedin.com/in/kauan-lucena-714237292)
 
-### ToolsWork and Abilities:
+### Tools and Abilities:
 ##
 <div style="display: inline_block"><br>
 <img align="center"  alt="python" width=100 heigth=100 src="https://github.com/KauanLuc/kauanLuc/assets/123121416/eb5db702-58e8-4d07-ad9a-0a8adb1097d4"/>
