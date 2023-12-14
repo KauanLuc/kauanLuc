@@ -4,7 +4,7 @@ Hello, my name is Kauan Lucena. This is my profile where I share my personal, co
 - 👨‍💻 Student of Analysis and Systems Development at [Sptech](https://www.sptech.school/)
 - 🔰 A Curious Brazilian
 - 🎮 Game Development Apreciator
-- ✉ You Can Contact Me on:
+- ✉ You Can Contact Me On:
   -  kauan.lucena@sptech.school <br>
   - [Instagram](https://www.instagram.com/kaefieli/)
   - [LinkedIn](https://www.linkedin.com/in/kauan-lucena-714237292)
