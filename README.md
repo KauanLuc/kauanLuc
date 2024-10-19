@@ -6,8 +6,8 @@ Hello, my name is Kauan Lucena. This is my profile where I share my personal, co
 - 🎮 Game Development Apreciator
 - ✉ You Can Contact Me On:
   -  kauan.lucena@sptech.school <br>
+  - [LinkedIn](https://www.linkedin.com/in/kauan-lucena-714237292)                     )
   - [Instagram](https://www.instagram.com/kaefieli/)
-  - [LinkedIn](https://www.linkedin.com/in/kauan-lucena-714237292)
 
 ### Tools and Abilities:
 ##
