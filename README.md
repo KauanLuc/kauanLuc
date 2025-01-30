@@ -12,7 +12,7 @@ Hello, my name is Kauan Lucena. This is my profile where I share my personal, co
 ### Tools and Abilities:
 ##
 <div style="display: inline_block"><br>
-<img align="center" alt="java" width=65 height=65 src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png"/>
+<img align="center" alt="java" width=75 height=80 src="https://cdn.iconscout.com/icon/free/png-256/free-java-2038875-1720088.png?f=webp"/>
 <img align="center" alt="spring boot" width=55 heigth=55 src="https://media.licdn.com/dms/image/v2/C4D12AQFhlYow_0XQBA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1571543597550?e=2147483647&v=beta&t=5Tysh47asHLOv7bJHhePJtax3NQ_PoXpoEE85boC8b4"/>
 <img align="center" alt"docker" width=60 heigth=60 src="https://www.devprojournal.com/wp-content/uploads/2022/05/docker-logo-696x596.webp"/>
 <img align="center" alt="mysql" width=60 heigth=60 src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"/>
