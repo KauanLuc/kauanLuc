@@ -4,7 +4,7 @@ Hello, my name is Kauan Lucena. This is my profile where I share my personal, co
 - 👨‍💻 Student of Analysis and Systems Development at [Sptech](https://www.sptech.school/)
 - 🔰 A Curious Brazilian
 - 🎮 Game Development Apreciator
-- 🌕 Currently learning Lua and working on a [project](https://github.com/KauanLuc/bruce) using this language
+- 🌕 Currently learning Lua and working on a [project](https://github.com/KauanLuc/hera.ai) using this language
 - 📀 Currently learning Neo4j, a NoSQL graph database
 - ✉ You Can Contact Me On:
   -  kauan.lucena@sptech.school <br>
