@@ -5,7 +5,7 @@ Hello, my name is Kauan Lucena. This is my profile where I share my personal, co
 - 🔰 A Curious Brazilian
 - 🎮 Game Development Apreciator
 - 🌕 Currently learning Lua and working on a [project](https://github.com/KauanLuc/hera.ai) using this language
-- 📀 Currently learning Neo4j, a NoSQL graph database
+- 📀 Currently learning Neo4j
 - ✉ You Can Contact Me On:
   -  kauan.lucena@sptech.school <br>
   - [LinkedIn](https://www.linkedin.com/in/kauan-lucena-714237292)                     
